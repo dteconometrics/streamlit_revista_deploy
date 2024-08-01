@@ -9,14 +9,6 @@ import streamlit as st
 
 
 
-## Pacotes de Econometria e ML 
-
-#import statsmodels.formula.api as sm
-import statsmodels.api as sm
-from statsmodels.tools import add_constant
-from statsmodels.discrete.discrete_model import Probit
-from sklearn.preprocessing import OrdinalEncoder
-
 
 st.set_page_config(page_title="Dados do atividade",
                    page_icon="🏙️", 
