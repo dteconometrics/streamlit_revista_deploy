@@ -5,5 +5,5 @@ matplotlib == 3.4.3
 seaborn == 0.13.2
 numpy == 2.0.1 
 openpyxl
-
+webbrowser
 
