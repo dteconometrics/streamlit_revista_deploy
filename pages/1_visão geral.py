@@ -37,7 +37,7 @@ st.markdown(f"<style>{custom_css}</style>", unsafe_allow_html=True)
 
 ## Importação dos Dados 
 
-df = pd.read_excel("C:\Users\vinicius.valenca\Documents\GitHub\streamlit_revista_deploy\dataset\prodepe_2.xlsx")
+df = pd.read_excel("streamlit_revista_deploy\dataset\prodepe_2.xlsx")
 
 df.columns = df.columns.str.strip() ## Espaços em branco 
 
